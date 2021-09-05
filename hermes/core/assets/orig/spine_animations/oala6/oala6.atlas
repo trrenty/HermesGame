@@ -1,0 +1,48 @@
+
+oala6.png
+size: 88,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+oala6-ciob1
+  rotate: false
+  xy: 2, 2
+  size: 37, 47
+  orig: 39, 50
+  offset: 1, 1
+  index: -1
+oala6-ciob2
+  rotate: false
+  xy: 2, 51
+  size: 54, 67
+  orig: 57, 69
+  offset: 2, 1
+  index: -1
+oala6-ciob3
+  rotate: true
+  xy: 41, 6
+  size: 43, 37
+  orig: 45, 39
+  offset: 1, 1
+  index: -1
+oala6-ciob4
+  rotate: false
+  xy: 58, 64
+  size: 28, 54
+  orig: 32, 56
+  offset: 2, 1
+  index: -1
+oala6-ciob5
+  rotate: false
+  xy: 2, 120
+  size: 74, 55
+  orig: 76, 57
+  offset: 1, 1
+  index: -1
+oala6-default
+  rotate: true
+  xy: 2, 177
+  size: 103, 84
+  orig: 105, 86
+  offset: 1, 1
+  index: -1

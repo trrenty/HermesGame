@@ -1,0 +1,63 @@
+{
+com.badlogic.gdx.graphics.Color: {
+	RGBA_255_255_255_255: {
+		r: 1
+		g: 1
+		b: 1
+		a: 1
+	}
+	white: {
+		r: 1
+		g: 1
+		b: 1
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle: {
+	default: {
+		checkboxOn: checked
+		checkboxOff: unchecked
+		font: ui_font_20
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+	default: {
+		font: ui_font_20
+		fontColor: white
+		background: unit-Chenar
+	}
+	code: {
+		font: code_font_20
+		fontColor: white
+//		background: unit-speechBubble
+	}
+	code-big: {
+		font: code_font_60
+		fontColor: white
+		//		background: unit-speechBubble
+	}
+	small: {
+		font: ui_font_16
+		fontColor: white
+		background: unit-speechBubble
+	}
+	dialogue: {
+		font: ui_font_32
+		fontColor: white
+	}
+	big: {
+		font: ui_font_26
+		fontColor: white
+		background: unit-speechBubble
+	}
+	simple: {
+		font: ui_font_32
+		fontColor: white
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle: {
+	default: {
+		label: default
+	}
+}
+}

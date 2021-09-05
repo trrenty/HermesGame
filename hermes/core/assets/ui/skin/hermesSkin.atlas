@@ -1,0 +1,45 @@
+
+hermesSkin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+checked
+  rotate: false
+  xy: 1, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+health-thing
+  rotate: false
+  xy: 1, 53
+  size: 268, 332
+  orig: 268, 332
+  offset: 0, 0
+  index: -1
+unchecked
+  rotate: false
+  xy: 271, 335
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+unit-Chenar
+  rotate: false
+  xy: 337, 449
+  size: 209, 136
+  split: 100, 101, 104, 26
+  pad: 55, 54, 64, 15
+  orig: 209, 136
+  offset: 0, 0
+  index: -1
+unit-speechBubble
+  rotate: false
+  xy: 1, 387
+  size: 334, 198
+  split: 162, 165, 40, 153
+  pad: 80, 80, 15, 60
+  orig: 334, 198
+  offset: 0, 0
+  index: -1

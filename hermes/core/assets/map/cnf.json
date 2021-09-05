@@ -1,0 +1,16 @@
+{
+    
+	"platform": "windows64",
+    "jdk": "C:\Program Files\AdoptOpenJDK\jdk-11.0.10.9-hotspot\bin",
+    "executable": "hermes",
+    "classpath": [
+        "F:\work\Faculty\LicentaStudy\JavaGame\hermes\desktop\build\libs\desktop-1.0.jar"
+    ],
+    "mainclass": "com.hermes.desktop.DesktopLauncher",
+    "resources": [
+        "src/main/resources",
+        "F:\work\Faculty\LicentaStudy\JavaGame\hermes\core\assets"
+    ],
+    "minimizejre": "soft",
+    "output": "exeFolder"
+}

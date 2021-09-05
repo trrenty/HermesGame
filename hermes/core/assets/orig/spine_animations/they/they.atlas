@@ -1,0 +1,27 @@
+
+they.png
+size: 1954,865
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+capete
+  rotate: true
+  xy: 1164, 44
+  size: 819, 671
+  orig: 819, 671
+  offset: 0, 0
+  index: -1
+corp
+  rotate: true
+  xy: 2, 2
+  size: 861, 1160
+  orig: 861, 1160
+  offset: 0, 0
+  index: -1
+ochi
+  rotate: true
+  xy: 1837, 413
+  size: 450, 115
+  orig: 450, 115
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+loon.png
+size: 1707,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Craniu
+  rotate: true
+  xy: 1480, 211
+  size: 309, 192
+  orig: 311, 195
+  offset: 1, 2
+  index: -1
+cap
+  rotate: false
+  xy: 1013, 180
+  size: 465, 340
+  orig: 465, 340
+  offset: 0, 0
+  index: -1
+corp
+  rotate: true
+  xy: 2, 31
+  size: 489, 1009
+  orig: 489, 1009
+  offset: 0, 0
+  index: -1
+maini
+  rotate: false
+  xy: 1013, 7
+  size: 595, 171
+  orig: 595, 171
+  offset: 0, 0
+  index: -1
+ochi
+  rotate: true
+  xy: 1610, 2
+  size: 207, 95
+  orig: 207, 95
+  offset: 0, 0
+  index: -1

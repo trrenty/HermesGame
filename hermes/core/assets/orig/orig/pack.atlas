@@ -1,0 +1,375 @@
+
+pack.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Accesorii Pietre1
+  rotate: false
+  xy: 2006, 2012
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+Accesorii Pietre2
+  rotate: false
+  xy: 1932, 618
+  size: 110, 76
+  orig: 110, 76
+  offset: 0, 0
+  index: -1
+Accesorii Pietre3
+  rotate: false
+  xy: 1802, 209
+  size: 83, 47
+  orig: 83, 47
+  offset: 0, 0
+  index: -1
+Accesorii-Ciuperci1
+  rotate: false
+  xy: 1940, 1366
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+Accesorii-Ciuperci2
+  rotate: false
+  xy: 1940, 1572
+  size: 98, 79
+  orig: 98, 79
+  offset: 0, 0
+  index: -1
+Accesorii-Ciuperci3
+  rotate: false
+  xy: 1940, 1427
+  size: 42, 77
+  orig: 42, 77
+  offset: 0, 0
+  index: -1
+Accesorii-Ciuperci4
+  rotate: false
+  xy: 1940, 1305
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+Liane1
+  rotate: false
+  xy: 516, 34
+  size: 512, 296
+  orig: 512, 296
+  offset: 0, 0
+  index: -1
+Liane2
+  rotate: false
+  xy: 1030, 167
+  size: 512, 219
+  orig: 512, 219
+  offset: 0, 0
+  index: -1
+Licurici1
+  rotate: false
+  xy: 1887, 224
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Licurici2
+  rotate: false
+  xy: 384, 21
+  size: 128, 129
+  orig: 128, 129
+  offset: 0, 0
+  index: -1
+Licurici3
+  rotate: false
+  xy: 1887, 190
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Licurici4
+  rotate: false
+  xy: 1940, 1506
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Pot1
+  rotate: false
+  xy: 1940, 1756
+  size: 64, 118
+  orig: 64, 118
+  offset: 0, 0
+  index: -1
+Pot2
+  rotate: false
+  xy: 1412, 21
+  size: 128, 144
+  orig: 128, 144
+  offset: 0, 0
+  index: -1
+Pot4
+  rotate: false
+  xy: 1940, 1876
+  size: 64, 169
+  orig: 64, 169
+  offset: 0, 0
+  index: -1
+SpikyRocksjos3
+  rotate: false
+  xy: 1940, 1653
+  size: 64, 101
+  orig: 64, 101
+  offset: 0, 0
+  index: -1
+TinyBug
+  rotate: false
+  xy: 1940, 1258
+  size: 64, 45
+  orig: 64, 45
+  offset: 0, 0
+  index: -1
+fundal0
+  rotate: false
+  xy: 2, 696
+  size: 1936, 1349
+  orig: 1936, 1349
+  offset: 0, 0
+  index: -1
+paralax-pietreJos-planSecundar1
+  rotate: false
+  xy: 2, 152
+  size: 512, 542
+  orig: 512, 542
+  offset: 0, 0
+  index: -1
+paralax-pietreJos-planSecundar2
+  rotate: false
+  xy: 1030, 388
+  size: 512, 306
+  orig: 512, 306
+  offset: 0, 0
+  index: -1
+paralax-pietreJos-planSecundar3
+  rotate: false
+  xy: 516, 332
+  size: 512, 362
+  orig: 512, 362
+  offset: 0, 0
+  index: -1
+paralaxPietre-sus2
+  rotate: false
+  xy: 1802, 258
+  size: 128, 436
+  orig: 128, 436
+  offset: 0, 0
+  index: -1
+paralaxPietreJos2
+  rotate: false
+  xy: 1544, 190
+  size: 256, 504
+  orig: 256, 504
+  offset: 0, 0
+  index: -1
+platformcenter
+  rotate: false
+  xy: 1544, 2
+  size: 376, 186
+  orig: 376, 186
+  offset: 0, 0
+  index: -1
+roadbottomleft
+  rotate: false
+  xy: 1922, 131
+  size: 124, 125
+  orig: 124, 125
+  offset: 0, 0
+  index: -1
+roadcenter
+  rotate: false
+  xy: 2, 25
+  size: 380, 125
+  orig: 380, 125
+  offset: 0, 0
+  index: -1
+roadleft
+  rotate: false
+  xy: 1922, 4
+  size: 124, 125
+  orig: 124, 125
+  offset: 0, 0
+  index: -1
+roadmiddle
+  rotate: false
+  xy: 1030, 40
+  size: 380, 125
+  orig: 380, 125
+  offset: 0, 0
+  index: -1
+
+pack2.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Accesorii Pietre4
+  rotate: false
+  xy: 542, 509
+  size: 221, 148
+  orig: 221, 148
+  offset: 0, 0
+  index: -1
+Ex-Ghosts
+  rotate: false
+  xy: 2, 403
+  size: 280, 254
+  orig: 280, 254
+  offset: 0, 0
+  index: -1
+Pot3
+  rotate: false
+  xy: 1545, 560
+  size: 128, 97
+  orig: 128, 97
+  offset: 0, 0
+  index: -1
+Pot5
+  rotate: false
+  xy: 1899, 664
+  size: 128, 85
+  orig: 128, 85
+  offset: 0, 0
+  index: -1
+Pot6
+  rotate: false
+  xy: 1155, 495
+  size: 128, 162
+  orig: 128, 162
+  offset: 0, 0
+  index: -1
+SpikyRocksjos1
+  rotate: false
+  xy: 2, 164
+  size: 256, 237
+  orig: 256, 237
+  offset: 0, 0
+  index: -1
+SpikyRocksjos2
+  rotate: false
+  xy: 284, 468
+  size: 256, 189
+  orig: 256, 189
+  offset: 0, 0
+  index: -1
+SpikyRocksjos4
+  rotate: false
+  xy: 2, 2
+  size: 256, 160
+  orig: 256, 160
+  offset: 0, 0
+  index: -1
+SpikyRockssus1
+  rotate: false
+  xy: 1025, 486
+  size: 128, 171
+  orig: 128, 171
+  offset: 0, 0
+  index: -1
+SpikyRockssus2
+  rotate: false
+  xy: 1899, 1129
+  size: 128, 222
+  orig: 128, 222
+  offset: 0, 0
+  index: -1
+SpikyRockssus3
+  rotate: false
+  xy: 1899, 939
+  size: 128, 188
+  orig: 128, 188
+  offset: 0, 0
+  index: -1
+ex-personaj
+  rotate: false
+  xy: 765, 480
+  size: 128, 177
+  orig: 128, 177
+  offset: 0, 0
+  index: -1
+paralax-fundal0
+  rotate: false
+  xy: 2, 659
+  size: 1895, 1322
+  orig: 1895, 1322
+  offset: 0, 0
+  index: -1
+paralaxPietre-sus1
+  rotate: false
+  xy: 1899, 1353
+  size: 128, 312
+  orig: 128, 312
+  offset: 0, 0
+  index: -1
+paralaxPietre-sus3
+  rotate: false
+  xy: 1899, 1667
+  size: 128, 314
+  orig: 128, 314
+  offset: 0, 0
+  index: -1
+platformleft
+  rotate: false
+  xy: 1899, 751
+  size: 128, 186
+  orig: 128, 186
+  offset: 0, 0
+  index: -1
+platformright
+  rotate: false
+  xy: 895, 471
+  size: 128, 186
+  orig: 128, 186
+  offset: 0, 0
+  index: -1
+roadbottomright
+  rotate: false
+  xy: 1285, 532
+  size: 128, 125
+  orig: 128, 125
+  offset: 0, 0
+  index: -1
+roadright
+  rotate: false
+  xy: 1415, 532
+  size: 128, 125
+  orig: 128, 125
+  offset: 0, 0
+  index: -1
+
+pack3.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Screenshot2
+  rotate: false
+  xy: 2, 1068
+  size: 1783, 841
+  orig: 1783, 841
+  offset: 0, 0
+  index: -1
+paralaxPietreJos1
+  rotate: false
+  xy: 2, 2
+  size: 512, 1064
+  orig: 512, 1064
+  offset: 0, 0
+  index: -1
+paralaxPietreJos3
+  rotate: false
+  xy: 1787, 1073
+  size: 256, 836
+  orig: 256, 836
+  offset: 0, 0
+  index: -1

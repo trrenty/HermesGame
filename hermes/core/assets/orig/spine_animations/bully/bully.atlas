@@ -1,0 +1,34 @@
+
+bully.png
+size: 449,234
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 14
+  rotate: true
+  xy: 2, 2
+  size: 230, 332
+  orig: 230, 332
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 336, 116
+  size: 111, 116
+  orig: 111, 116
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: false
+  xy: 336, 37
+  size: 37, 11
+  orig: 37, 11
+  offset: 0, 0
+  index: -1
+sapca
+  rotate: false
+  xy: 336, 50
+  size: 93, 64
+  orig: 93, 64
+  offset: 0, 0
+  index: -1

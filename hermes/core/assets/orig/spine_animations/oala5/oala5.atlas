@@ -1,0 +1,83 @@
+
+oala5.png
+size: 173,153
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+oala5-ciob1
+  rotate: true
+  xy: 125, 2
+  size: 34, 29
+  orig: 37, 31
+  offset: 2, 1
+  index: -1
+oala5-ciob10
+  rotate: false
+  xy: 46, 32
+  size: 30, 53
+  orig: 32, 56
+  offset: 1, 1
+  index: -1
+oala5-ciob2
+  rotate: false
+  xy: 125, 38
+  size: 32, 47
+  orig: 34, 49
+  offset: 1, 1
+  index: -1
+oala5-ciob3
+  rotate: true
+  xy: 78, 65
+  size: 20, 42
+  orig: 23, 45
+  offset: 2, 2
+  index: -1
+oala5-ciob4
+  rotate: true
+  xy: 2, 6
+  size: 14, 60
+  orig: 16, 63
+  offset: 1, 1
+  index: -1
+oala5-ciob5
+  rotate: false
+  xy: 159, 43
+  size: 12, 42
+  orig: 14, 44
+  offset: 1, 1
+  index: -1
+oala5-ciob6
+  rotate: true
+  xy: 64, 6
+  size: 24, 59
+  orig: 26, 61
+  offset: 1, 1
+  index: -1
+oala5-ciob7
+  rotate: true
+  xy: 78, 47
+  size: 16, 37
+  orig: 18, 39
+  offset: 1, 1
+  index: -1
+oala5-ciob8
+  rotate: false
+  xy: 2, 22
+  size: 42, 63
+  orig: 44, 65
+  offset: 1, 1
+  index: -1
+oala5-ciob9
+  rotate: true
+  xy: 78, 32
+  size: 13, 36
+  orig: 16, 40
+  offset: 1, 2
+  index: -1
+oala5-default
+  rotate: true
+  xy: 2, 87
+  size: 64, 169
+  orig: 66, 171
+  offset: 1, 1
+  index: -1

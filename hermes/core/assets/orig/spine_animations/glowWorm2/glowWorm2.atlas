@@ -1,0 +1,13 @@
+
+glowWorm2.png
+size: 26,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glowWorm2
+  rotate: false
+  xy: 2, 2
+  size: 22, 92
+  orig: 26, 95
+  offset: 1, 2
+  index: -1

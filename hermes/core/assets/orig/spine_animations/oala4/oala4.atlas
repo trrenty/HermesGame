@@ -1,0 +1,55 @@
+
+oala4.png
+size: 254,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+oala4-ciob1
+  rotate: true
+  xy: 218, 48
+  size: 38, 34
+  orig: 40, 36
+  offset: 1, 1
+  index: -1
+oala4-ciob2
+  rotate: false
+  xy: 158, 49
+  size: 58, 37
+  orig: 61, 39
+  offset: 1, 1
+  index: -1
+oala4-ciob3
+  rotate: false
+  xy: 99, 42
+  size: 57, 44
+  orig: 59, 46
+  offset: 1, 1
+  index: -1
+oala4-ciob4
+  rotate: false
+  xy: 99, 2
+  size: 38, 38
+  orig: 40, 42
+  offset: 1, 1
+  index: -1
+oala4-ciob5
+  rotate: true
+  xy: 158, 7
+  size: 40, 46
+  orig: 42, 48
+  offset: 1, 1
+  index: -1
+oala4-ciob6
+  rotate: false
+  xy: 206, 2
+  size: 38, 44
+  orig: 40, 46
+  offset: 1, 1
+  index: -1
+oala4-default
+  rotate: false
+  xy: 2, 4
+  size: 95, 82
+  orig: 98, 84
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,76 @@
+
+oala2.png
+size: 162,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+oala2-ciob1
+  rotate: true
+  xy: 128, 76
+  size: 23, 30
+  orig: 25, 32
+  offset: 1, 1
+  index: -1
+oala2-ciob2
+  rotate: true
+  xy: 69, 12
+  size: 23, 46
+  orig: 25, 48
+  offset: 1, 1
+  index: -1
+oala2-ciob3
+  rotate: true
+  xy: 118, 31
+  size: 22, 30
+  orig: 24, 33
+  offset: 1, 1
+  index: -1
+oala2-ciob4
+  rotate: false
+  xy: 69, 67
+  size: 49, 26
+  orig: 51, 28
+  offset: 1, 1
+  index: -1
+oala2-ciob5
+  rotate: false
+  xy: 128, 101
+  size: 32, 30
+  orig: 34, 33
+  offset: 1, 1
+  index: -1
+oala2-ciob6
+  rotate: true
+  xy: 117, 2
+  size: 27, 26
+  orig: 29, 28
+  offset: 1, 1
+  index: -1
+oala2-ciob7
+  rotate: false
+  xy: 120, 55
+  size: 39, 19
+  orig: 42, 22
+  offset: 1, 1
+  index: -1
+oala2-ciob8
+  rotate: true
+  xy: 69, 37
+  size: 28, 47
+  orig: 30, 49
+  offset: 1, 1
+  index: -1
+oala2-ciob9
+  rotate: false
+  xy: 69, 95
+  size: 57, 36
+  orig: 59, 38
+  offset: 1, 1
+  index: -1
+oala2-default
+  rotate: false
+  xy: 2, 11
+  size: 65, 120
+  orig: 67, 122
+  offset: 1, 1
+  index: -1

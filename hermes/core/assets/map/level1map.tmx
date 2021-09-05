@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="96" height="45" tilewidth="64" tileheight="64" infinite="0" nextlayerid="3" nextobjectid="49">
+ <properties>
+  <property name="atlas" value="map.atlas"/>
+ </properties>
+ <layer id="1" name="Tile Layer 1" width="96" height="45">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAMCvAdI1NmKAQwAA
+  </data>
+ </layer>
+ <objectgroup id="2" name="collision">
+  <object id="2" x="-4" y="2756" width="3008" height="120"/>
+  <object id="3" x="6668" y="3332"/>
+  <object id="7" x="256" y="2172" width="5182" height="132"/>
+  <object id="9" x="2884" y="1598" width="2556" height="132"/>
+  <object id="10" x="2943" y="1030" width="3205" height="132"/>
+  <object id="11" x="972" y="-2" width="5176" height="520"/>
+  <object id="12" x="1279" y="2615" width="830" height="140"/>
+  <object id="15" x="3009" y="2612" width="3142" height="264"/>
+  <object id="16" x="6530" y="2842"/>
+  <object id="18" x="3515" y="2309" width="837" height="185"/>
+  <object id="19" x="3639" y="2494" width="582" height="58"/>
+  <object id="21" x="5688" y="1600" width="457" height="1009"/>
+  <object id="22" x="5254" y="1742" width="182" height="416"/>
+  <object id="24" x="5748" y="1167" width="388" height="109"/>
+  <object id="25" x="6012" y="1282" width="124" height="185"/>
+  <object id="26" x="5824" y="1279" width="188" height="124"/>
+  <object id="28" x="764" y="1598" width="1604" height="133"/>
+  <object id="29" x="-3" y="1594" width="127" height="1285"/>
+  <object id="30" x="258" y="1603" width="121" height="576"/>
+  <object id="31" x="-3" y="1594" width="382" height="130"/>
+  <object id="34" x="3" y="-3" width="127" height="1600"/>
+  <object id="35" x="321" y="447" width="128" height="782"/>
+  <object id="38" x="4" y="4" width="964" height="128"/>
+  <object id="40" x="452" y="444" width="508" height="140"/>
+  <object id="42" x="248" y="444" width="76" height="72"/>
+  <object id="43" x="452" y="588" width="128" height="508"/>
+  <object id="45" x="1408" y="1020" width="440" height="580"/>
+  <object id="46" x="760" y="1028" width="640" height="244"/>
+  <object id="47" x="1088" y="832" width="944" height="188"/>
+  <object id="48" x="1532" y="700" width="1224" height="124"/>
+ </objectgroup>
+</map>
